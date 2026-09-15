@@ -1,0 +1,7 @@
+Project: AI Supply Chain Predictor
+
+Problem Statement:
+Companies struggle to anticipate inventory requirements.
+
+Solution Statement:
+Analyze historical data and predict demand.
